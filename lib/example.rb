@@ -1,5 +1,5 @@
 # Use this space to code along with the readme
-def lib
+def a_samole_method
 phrase = "Hello World!"
 puts phrase
 puts phrase
